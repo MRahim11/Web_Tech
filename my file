@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+
+<h1 style="color:red;">All in one solution</h1>
+
+
+
+<img src="C:\Users\tomed\OneDrive\Desktop\Web design\New folder\me.JPG" alt="C:\Users\tomed\OneDrive\Desktop\Web design\New folder\me.JPG" width="200	" height="200">
+
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+</style>
+<body>
+
+
+
+
+
+
+<h2>Our people across the world</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+    <th>email</th>
+<th>image</th>
+
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+    <td>ma@gmail.com
+<td><img src="C:\Users\tomed\OneDrive\Desktop\Web design\New folder\me.JPG" alt="C:\Users\tomed\OneDrive\Desktop\Web design\New folder\me.JPG" width="20	" height="20"></td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+<td>jy@gmail.com</td>
+<td> <img src="C:\Users\tomed\OneDrive\Desktop\Web design\New folder\IMG_1188.JPG" width="20	" height="20"></td>
+  </tr>
+</table>
+
+
+<h3>our people across the country</h3>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th> mobile </th>
+    <th> uni</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>0044</td>
+    <td> LMET</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>0044</td>
+ <td> qm</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
+
+
+
+<p>Here is a quote from WWF's website:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+</blockquote>
+
+</body>
+</html>
